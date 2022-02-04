@@ -1,0 +1,4 @@
+__serve__/
+__pycache__/
+
+.env
