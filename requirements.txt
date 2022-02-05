@@ -4,7 +4,7 @@ brython==3.10.4
 Django==4.0.2
 django-cors-headers==3.11.0
 livereload==2.6.3
-pyfyre==0.3.7
+pyfyre==0.3.1
 python-dotenv==0.19.2
 six==1.16.0
 sqlparse==0.4.2
